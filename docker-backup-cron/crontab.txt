@@ -1,0 +1,2 @@
+*/10 * * * * bash /app/backup.sh
+0 8 * * * echo "Informe diario de backup" | mail -s "📝 Informe Backup Diario" -A /app/logs/backup/backup_diario_$(date +\%Y-\%m-\%d).txt mario.villaverde@marco.agency
