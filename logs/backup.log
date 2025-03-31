@@ -1,5 +1,2028 @@
-🕒 2025-03-23 13:02:13 - Iniciando backup...
-📁 Origen: carpeta_original
-📂 Destino: backups/backup-2025-03-23-13-02.tar.gz
-✅ 2025-03-23 13:02:13 - Backup completado correctamente
+2025-03-26 21:04:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-04-01-818.tar.gz
+2025-03-26 21:04:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:04:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-20-57-02-003.tar.gz
+-----------------------------
+2025-03-26 21:05:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-05-02-177.tar.gz
+2025-03-26 21:05:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:05:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-20-58-01-378.tar.gz
+-----------------------------
+2025-03-26 21:06:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-06-01-562.tar.gz
+2025-03-26 21:06:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:06:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-20-59-01-763.tar.gz
+-----------------------------
+2025-03-26 21:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-07-01-936.tar.gz
+2025-03-26 21:07:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-00-02-150.tar.gz
+-----------------------------
+2025-03-26 21:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-08-01-287.tar.gz
+2025-03-26 21:08:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-01-01-741.tar.gz
+-----------------------------
+2025-03-26 21:09:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-09-01-616.tar.gz
+2025-03-26 21:09:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:09:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-02-02-086.tar.gz
+-----------------------------
+2025-03-26 21:36:32 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-36-32-065.tar.gz
+2025-03-26 21:36:32 - ✅ Backup hecho correctamente.
+2025-03-26 21:36:32 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-03-01-446.tar.gz
+-----------------------------
+2025-03-26 21:37:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-37-01-402.tar.gz
+2025-03-26 21:37:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:37:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-04-01-818.tar.gz
+-----------------------------
+2025-03-26 21:38:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-38-01-767.tar.gz
+2025-03-26 21:38:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:38:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-05-02-177.tar.gz
+-----------------------------
+2025-03-26 21:39:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-39-02-189.tar.gz
+2025-03-26 21:39:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:39:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-06-01-562.tar.gz
+-----------------------------
+2025-03-26 21:40:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-40-01-555.tar.gz
+2025-03-26 21:40:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:40:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-07-01-936.tar.gz
+-----------------------------
+2025-03-26 21:41:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-41-01-934.tar.gz
+2025-03-26 21:41:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:41:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-08-01-287.tar.gz
+-----------------------------
+2025-03-26 21:42:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-42-01-262.tar.gz
+2025-03-26 21:42:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:42:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-09-01-616.tar.gz
+-----------------------------
+2025-03-26 21:43:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-43-01-686.tar.gz
+2025-03-26 21:43:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:43:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-36-32-065.tar.gz
+-----------------------------
+2025-03-26 21:44:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-44-02-033.tar.gz
+2025-03-26 21:44:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:44:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-37-01-402.tar.gz
+-----------------------------
+2025-03-26 21:45:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-45-01-367.tar.gz
+2025-03-26 21:45:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:45:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-38-01-767.tar.gz
+-----------------------------
+2025-03-26 21:46:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-46-01-705.tar.gz
+2025-03-26 21:46:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:46:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-39-02-189.tar.gz
+-----------------------------
+2025-03-26 21:47:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-47-02-056.tar.gz
+2025-03-26 21:47:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:47:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-40-01-555.tar.gz
+-----------------------------
+2025-03-26 21:48:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-48-01-382.tar.gz
+2025-03-26 21:48:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:48:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-41-01-934.tar.gz
+-----------------------------
+2025-03-26 21:49:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-49-01-765.tar.gz
+2025-03-26 21:49:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:49:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-42-01-262.tar.gz
+-----------------------------
+2025-03-26 21:50:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-50-02-119.tar.gz
+2025-03-26 21:50:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:50:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-43-01-686.tar.gz
+-----------------------------
+2025-03-26 21:51:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-51-01-465.tar.gz
+2025-03-26 21:51:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:51:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-44-02-033.tar.gz
+-----------------------------
+2025-03-26 21:52:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-52-01-823.tar.gz
+2025-03-26 21:52:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:52:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-45-01-367.tar.gz
+-----------------------------
+2025-03-26 21:53:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-53-02-223.tar.gz
+2025-03-26 21:53:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:53:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-46-01-705.tar.gz
+-----------------------------
+2025-03-26 21:54:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-54-01-622.tar.gz
+2025-03-26 21:54:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:54:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-47-02-056.tar.gz
+-----------------------------
+2025-03-26 21:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-55-01-986.tar.gz
+2025-03-26 21:55:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:55:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-48-01-382.tar.gz
+-----------------------------
+2025-03-26 21:56:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-56-01-344.tar.gz
+2025-03-26 21:56:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:56:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-49-01-765.tar.gz
+-----------------------------
+2025-03-26 21:57:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-57-01-690.tar.gz
+2025-03-26 21:57:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:57:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-51-01-465.tar.gz
+-----------------------------
+2025-03-26 21:58:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-58-02-044.tar.gz
+2025-03-26 21:58:02 - ✅ Backup hecho correctamente.
+2025-03-26 21:58:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-52-01-823.tar.gz
+-----------------------------
+2025-03-26 21:59:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-21-59-01-397.tar.gz
+2025-03-26 21:59:01 - ✅ Backup hecho correctamente.
+2025-03-26 21:59:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-53-02-223.tar.gz
+-----------------------------
+2025-03-26 22:00:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-00-01-772.tar.gz
+2025-03-26 22:00:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:00:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-54-01-622.tar.gz
+-----------------------------
+2025-03-26 22:01:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-01-02-120.tar.gz
+2025-03-26 22:01:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:01:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-56-01-344.tar.gz
+-----------------------------
+2025-03-26 22:02:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-02-01-510.tar.gz
+2025-03-26 22:02:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:02:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-56-02.tar.gz
+-----------------------------
+2025-03-26 22:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-03-01-837.tar.gz
+2025-03-26 22:03:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-57-01-690.tar.gz
+-----------------------------
+2025-03-26 22:04:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-04-02-215.tar.gz
+2025-03-26 22:04:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:04:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-58-02-044.tar.gz
+-----------------------------
+2025-03-26 22:05:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-05-01-583.tar.gz
+2025-03-26 22:05:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:05:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-21-59-01-397.tar.gz
+-----------------------------
+2025-03-26 22:06:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-06-01-931.tar.gz
+2025-03-26 22:06:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:06:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-00-01-772.tar.gz
+-----------------------------
+2025-03-26 22:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-07-01-321.tar.gz
+2025-03-26 22:07:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-00-02.tar.gz
+-----------------------------
+2025-03-26 22:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-08-01-666.tar.gz
+2025-03-26 22:08:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-01-02-120.tar.gz
+-----------------------------
+2025-03-26 22:09:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-09-02-002.tar.gz
+2025-03-26 22:09:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:09:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-02-01-510.tar.gz
+-----------------------------
+2025-03-26 22:10:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-10-01-398.tar.gz
+2025-03-26 22:10:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:10:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-03-01-837.tar.gz
+-----------------------------
+2025-03-26 22:11:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-11-01-822.tar.gz
+2025-03-26 22:11:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:11:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-04-02-215.tar.gz
+-----------------------------
+2025-03-26 22:12:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-12-02-182.tar.gz
+2025-03-26 22:12:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:12:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-05-01-583.tar.gz
+-----------------------------
+2025-03-26 22:13:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-13-01-525.tar.gz
+2025-03-26 22:13:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:13:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-06-01-931.tar.gz
+-----------------------------
+2025-03-26 22:14:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-14-01-923.tar.gz
+2025-03-26 22:14:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:14:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-07-01-321.tar.gz
+-----------------------------
+2025-03-26 22:15:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-15-01-263.tar.gz
+2025-03-26 22:15:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:15:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-08-01-666.tar.gz
+-----------------------------
+2025-03-26 22:16:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-16-01-627.tar.gz
+2025-03-26 22:16:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:16:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-09-02-002.tar.gz
+-----------------------------
+2025-03-26 22:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-17-02-000.tar.gz
+2025-03-26 22:17:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-10-01-398.tar.gz
+-----------------------------
+2025-03-26 22:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-18-01-338.tar.gz
+2025-03-26 22:18:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-11-01-822.tar.gz
+-----------------------------
+2025-03-26 22:19:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-19-01-696.tar.gz
+2025-03-26 22:19:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:19:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-12-02-182.tar.gz
+-----------------------------
+2025-03-26 22:20:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-20-02-078.tar.gz
+2025-03-26 22:20:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:20:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-13-01-525.tar.gz
+-----------------------------
+2025-03-26 22:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-21-01-439.tar.gz
+2025-03-26 22:21:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-14-01-923.tar.gz
+-----------------------------
+2025-03-26 22:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-22-01-837.tar.gz
+2025-03-26 22:22:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-16-01-627.tar.gz
+-----------------------------
+2025-03-26 22:23:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-23-02-211.tar.gz
+2025-03-26 22:23:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:23:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-17-02-000.tar.gz
+-----------------------------
+2025-03-26 22:24:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-24-01-573.tar.gz
+2025-03-26 22:24:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:24:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-18-01-338.tar.gz
+-----------------------------
+2025-03-26 22:25:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-25-01-944.tar.gz
+2025-03-26 22:25:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:25:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-20-02-078.tar.gz
+-----------------------------
+2025-03-26 22:26:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-26-01-340.tar.gz
+2025-03-26 22:26:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:26:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-21-01-439.tar.gz
+-----------------------------
+2025-03-26 22:27:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-27-01-714.tar.gz
+2025-03-26 22:27:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:27:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-22-01-837.tar.gz
+-----------------------------
+2025-03-26 22:28:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-28-02-078.tar.gz
+2025-03-26 22:28:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:28:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-24-01-573.tar.gz
+-----------------------------
+2025-03-26 22:29:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-29-01-436.tar.gz
+2025-03-26 22:29:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:29:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-24-01.tar.gz
+-----------------------------
+2025-03-26 22:30:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-30-01-813.tar.gz
+2025-03-26 22:30:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:30:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-25-01-944.tar.gz
+-----------------------------
+2025-03-26 22:31:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-31-02-250.tar.gz
+2025-03-26 22:31:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:31:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-26-01.tar.gz
+-----------------------------
+2025-03-26 22:32:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-32-01-610.tar.gz
+2025-03-26 22:32:01 - ✅ Backup hecho correctamente.
+2025-03-26 22:32:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-27-01-714.tar.gz
+-----------------------------
+2025-03-26 22:33:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-26-22-33-02-030.tar.gz
+2025-03-26 22:33:02 - ✅ Backup hecho correctamente.
+2025-03-26 22:33:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-28-02-078.tar.gz
+-----------------------------
+2025-03-28 12:51:50 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-51-50-010.tar.gz
+2025-03-28 12:51:50 - ✅ Backup hecho correctamente.
+2025-03-28 12:51:50 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-29-01-436.tar.gz
+-----------------------------
+2025-03-28 12:52:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-52-01-474.tar.gz
+2025-03-28 12:52:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:52:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-30-01.tar.gz
+-----------------------------
+2025-03-28 12:53:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-53-01-837.tar.gz
+2025-03-28 12:53:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:53:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-31-02-250.tar.gz
+-----------------------------
+2025-03-28 12:54:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-54-02-311.tar.gz
+2025-03-28 12:54:02 - ✅ Backup hecho correctamente.
+2025-03-28 12:54:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-32-01.tar.gz
+-----------------------------
+2025-03-28 12:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-55-01-672.tar.gz
+2025-03-28 12:55:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:55:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-26-22-33-02-030.tar.gz
+-----------------------------
+2025-03-28 12:56:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-56-01-694.tar.gz
+2025-03-28 12:56:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:56:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-51-50-010.tar.gz
+-----------------------------
+2025-03-28 12:57:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-57-02-086.tar.gz
+2025-03-28 12:57:02 - ✅ Backup hecho correctamente.
+2025-03-28 12:57:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-52-01-474.tar.gz
+-----------------------------
+2025-03-28 12:58:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-58-01-436.tar.gz
+2025-03-28 12:58:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:58:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-53-01-837.tar.gz
+-----------------------------
+2025-03-28 12:59:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-12-59-01-800.tar.gz
+2025-03-28 12:59:01 - ✅ Backup hecho correctamente.
+2025-03-28 12:59:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-54-02-311.tar.gz
+-----------------------------
+2025-03-28 13:00:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-00-02-155.tar.gz
+2025-03-28 13:00:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:00:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-56-01-694.tar.gz
+-----------------------------
+2025-03-28 13:01:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-01-01-903.tar.gz
+2025-03-28 13:01:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:01:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-56-01.tar.gz
+-----------------------------
+2025-03-28 13:02:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-02-01-285.tar.gz
+2025-03-28 13:02:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:02:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-57-02-086.tar.gz
+-----------------------------
+2025-03-28 13:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-03-01-689.tar.gz
+2025-03-28 13:03:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-12-58-01.tar.gz
+-----------------------------
+2025-03-28 13:04:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-04-02-039.tar.gz
+2025-03-28 13:04:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:04:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-00-01.tar.gz
+-----------------------------
+2025-03-28 13:05:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-05-01-377.tar.gz
+2025-03-28 13:05:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:05:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-00-02-155.tar.gz
+-----------------------------
+2025-03-28 13:06:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-06-01-757.tar.gz
+2025-03-28 13:06:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:06:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-02-01-285.tar.gz
+-----------------------------
+2025-03-28 13:07:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-07-02-147.tar.gz
+2025-03-28 13:07:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:07:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-02-02.tar.gz
+-----------------------------
+2025-03-28 13:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-08-01-506.tar.gz
+2025-03-28 13:08:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-04-01.tar.gz
+-----------------------------
+2025-03-28 13:09:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-09-01-942.tar.gz
+2025-03-28 13:09:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:09:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-04-02-039.tar.gz
+-----------------------------
+2025-03-28 13:10:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-10-01-355.tar.gz
+2025-03-28 13:10:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:10:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-06-01.tar.gz
+-----------------------------
+2025-03-28 13:11:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-11-01-767.tar.gz
+2025-03-28 13:11:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:11:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-06-01-757.tar.gz
+-----------------------------
+2025-03-28 13:12:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-12-02-111.tar.gz
+2025-03-28 13:12:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:12:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-08-01.tar.gz
+-----------------------------
+2025-03-28 13:13:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-13-01-456.tar.gz
+2025-03-28 13:13:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:13:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-08-01-506.tar.gz
+-----------------------------
+2025-03-28 13:14:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-14-01-863.tar.gz
+2025-03-28 13:14:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:14:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-10-01.tar.gz
+-----------------------------
+2025-03-28 13:15:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-15-01-255.tar.gz
+2025-03-28 13:15:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:15:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-10-01-355.tar.gz
+-----------------------------
+2025-03-28 13:16:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-16-01-648.tar.gz
+2025-03-28 13:16:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:16:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-12-01.tar.gz
+-----------------------------
+2025-03-28 13:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-17-02-062.tar.gz
+2025-03-28 13:17:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-12-02-111.tar.gz
+-----------------------------
+2025-03-28 13:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-18-01-427.tar.gz
+2025-03-28 13:18:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-13-01-456.tar.gz
+-----------------------------
+2025-03-28 13:19:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-19-01-762.tar.gz
+2025-03-28 13:19:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:19:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-14-01-863.tar.gz
+-----------------------------
+2025-03-28 13:20:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-20-02-154.tar.gz
+2025-03-28 13:20:02 - ✅ Backup hecho correctamente.
+2025-03-28 13:20:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-16-01.tar.gz
+-----------------------------
+2025-03-28 13:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-21-01-499.tar.gz
+2025-03-28 13:21:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-16-01-648.tar.gz
+-----------------------------
+2025-03-28 13:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-28-13-22-01-894.tar.gz
+2025-03-28 13:22:01 - ✅ Backup hecho correctamente.
+2025-03-28 13:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-18-01-427.tar.gz
+-----------------------------
+2025-03-30 08:54:00 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-54-00-259.tar.gz
+2025-03-30 08:54:00 - ✅ Backup hecho correctamente.
+2025-03-30 08:54:00 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-18-01.tar.gz
+-----------------------------
+2025-03-30 08:54:00 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-54-00-949.tar.gz
+2025-03-30 08:54:00 - ✅ Backup hecho correctamente.
+2025-03-30 08:54:00 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-20-01.tar.gz
+-----------------------------
+2025-03-30 08:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-55-01-485.tar.gz
+2025-03-30 08:55:01 - ✅ Backup hecho correctamente.
+2025-03-30 08:55:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-20-02-154.tar.gz
+-----------------------------
+2025-03-30 08:56:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-56-02-118.tar.gz
+2025-03-30 08:56:02 - ✅ Backup hecho correctamente.
+2025-03-30 08:56:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-22-01.tar.gz
+-----------------------------
+2025-03-30 08:57:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-57-01-755.tar.gz
+2025-03-30 08:57:01 - ✅ Backup hecho correctamente.
+2025-03-30 08:57:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-28-13-22-01-894.tar.gz
+-----------------------------
+2025-03-30 08:58:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-58-02-159.tar.gz
+2025-03-30 08:58:02 - ✅ Backup hecho correctamente.
+2025-03-30 08:58:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-54-00.tar.gz
+-----------------------------
+2025-03-30 08:59:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-08-59-01-760.tar.gz
+2025-03-30 08:59:01 - ✅ Backup hecho correctamente.
+2025-03-30 08:59:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-54-00-949.tar.gz
+-----------------------------
+2025-03-30 09:00:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-00-02-564.tar.gz
+2025-03-30 09:00:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:00:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-56-01.tar.gz
+-----------------------------
+2025-03-30 09:01:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-01-01-589.tar.gz
+2025-03-30 09:01:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:01:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-56-02-118.tar.gz
+-----------------------------
+2025-03-30 09:02:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-02-02-184.tar.gz
+2025-03-30 09:02:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:02:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-58-01.tar.gz
+-----------------------------
+2025-03-30 09:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-03-01-602.tar.gz
+2025-03-30 09:03:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-08-58-02-159.tar.gz
+-----------------------------
+2025-03-30 09:04:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-04-02-308.tar.gz
+2025-03-30 09:04:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:04:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-00-01.tar.gz
+-----------------------------
+2025-03-30 09:05:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-05-01-704.tar.gz
+2025-03-30 09:05:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:05:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-00-02-564.tar.gz
+-----------------------------
+2025-03-30 09:06:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-06-02-324.tar.gz
+2025-03-30 09:06:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:06:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-02-01.tar.gz
+-----------------------------
+2025-03-30 09:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-07-01-949.tar.gz
+2025-03-30 09:07:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-02-02-184.tar.gz
+-----------------------------
+2025-03-30 09:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-08-01-582.tar.gz
+2025-03-30 09:08:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-03-01-602.tar.gz
+-----------------------------
+2025-03-30 09:09:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-09-02-201.tar.gz
+2025-03-30 09:09:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:09:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-04-02-308.tar.gz
+-----------------------------
+2025-03-30 09:10:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-10-01-639.tar.gz
+2025-03-30 09:10:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:10:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-06-01.tar.gz
+-----------------------------
+2025-03-30 09:11:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-11-01-894.tar.gz
+2025-03-30 09:11:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:11:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-06-02-324.tar.gz
+-----------------------------
+2025-03-30 09:12:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-12-01-435.tar.gz
+2025-03-30 09:12:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:12:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-07-01-949.tar.gz
+-----------------------------
+2025-03-30 09:13:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-13-02-055.tar.gz
+2025-03-30 09:13:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:13:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-08-01.tar.gz
+-----------------------------
+2025-03-30 09:14:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-14-01-556.tar.gz
+2025-03-30 09:14:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:14:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-09-02-201.tar.gz
+-----------------------------
+2025-03-30 09:15:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-15-02-122.tar.gz
+2025-03-30 09:15:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:15:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-10-01-639.tar.gz
+-----------------------------
+2025-03-30 09:16:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-16-01-707.tar.gz
+2025-03-30 09:16:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:16:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-11-01-894.tar.gz
+-----------------------------
+2025-03-30 09:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-17-02-256.tar.gz
+2025-03-30 09:17:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-12-01.tar.gz
+-----------------------------
+2025-03-30 09:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-18-01-932.tar.gz
+2025-03-30 09:18:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-14-01-556.tar.gz
+-----------------------------
+2025-03-30 09:19:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-19-01-539.tar.gz
+2025-03-30 09:19:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:19:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-14-01.tar.gz
+-----------------------------
+2025-03-30 09:20:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-20-02-300.tar.gz
+2025-03-30 09:20:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:20:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-16-01-707.tar.gz
+-----------------------------
+2025-03-30 09:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-21-01-930.tar.gz
+2025-03-30 09:21:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-16-01.tar.gz
+-----------------------------
+2025-03-30 09:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-22-01-744.tar.gz
+2025-03-30 09:22:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-18-01.tar.gz
+-----------------------------
+2025-03-30 09:23:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-23-01-502.tar.gz
+2025-03-30 09:23:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:23:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-18-01-932.tar.gz
+-----------------------------
+2025-03-30 09:24:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-24-02-127.tar.gz
+2025-03-30 09:24:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:24:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-20-01.tar.gz
+-----------------------------
+2025-03-30 09:25:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-25-01-516.tar.gz
+2025-03-30 09:25:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:25:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-20-02-300.tar.gz
+-----------------------------
+2025-03-30 09:26:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-26-01-870.tar.gz
+2025-03-30 09:26:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:26:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-22-01.tar.gz
+-----------------------------
+2025-03-30 09:27:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-27-02-420.tar.gz
+2025-03-30 09:27:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:27:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-22-01-744.tar.gz
+-----------------------------
+2025-03-30 09:28:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-28-01-997.tar.gz
+2025-03-30 09:28:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:28:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-24-01.tar.gz
+-----------------------------
+2025-03-30 09:29:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-29-01-631.tar.gz
+2025-03-30 09:29:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:29:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-24-02-127.tar.gz
+-----------------------------
+2025-03-30 09:30:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-30-02-304.tar.gz
+2025-03-30 09:30:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:30:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-26-01.tar.gz
+-----------------------------
+2025-03-30 09:31:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-31-02-383.tar.gz
+2025-03-30 09:31:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:31:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-26-01-870.tar.gz
+-----------------------------
+2025-03-30 09:32:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-32-01-923.tar.gz
+2025-03-30 09:32:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:32:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-28-01.tar.gz
+-----------------------------
+2025-03-30 09:33:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-33-01-534.tar.gz
+2025-03-30 09:33:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:33:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-28-01-997.tar.gz
+-----------------------------
+2025-03-30 09:34:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-34-02-234.tar.gz
+2025-03-30 09:34:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:34:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-30-01.tar.gz
+-----------------------------
+2025-03-30 09:35:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-35-01-963.tar.gz
+2025-03-30 09:35:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:35:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-30-02-304.tar.gz
+-----------------------------
+2025-03-30 09:36:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-36-01-605.tar.gz
+2025-03-30 09:36:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:36:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-31-02-383.tar.gz
+-----------------------------
+2025-03-30 09:37:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-37-02-228.tar.gz
+2025-03-30 09:37:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:37:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-32-01-923.tar.gz
+-----------------------------
+2025-03-30 09:38:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-38-01-829.tar.gz
+2025-03-30 09:38:01 - ✅ Backup hecho correctamente.
+-----------------------------
+2025-03-30 09:39:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-39-01-597.tar.gz
+2025-03-30 09:39:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:39:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-34-02-234.tar.gz
+2025-03-30 09:39:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-34-01.tar.gz
+-----------------------------
+2025-03-30 09:40:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-40-02-005.tar.gz
+2025-03-30 09:40:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:40:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-36-01-605.tar.gz
+-----------------------------
+2025-03-30 09:41:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-41-01-514.tar.gz
+2025-03-30 09:41:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:41:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-36-01.tar.gz
+-----------------------------
+2025-03-30 09:42:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-42-02-256.tar.gz
+2025-03-30 09:42:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:42:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-38-01-829.tar.gz
+-----------------------------
+2025-03-30 09:43:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-43-01-922.tar.gz
+2025-03-30 09:43:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:43:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-38-01.tar.gz
+-----------------------------
+2025-03-30 09:44:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-44-01-642.tar.gz
+2025-03-30 09:44:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:44:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-40-01.tar.gz
+-----------------------------
+2025-03-30 09:45:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-45-02-394.tar.gz
+2025-03-30 09:45:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:45:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-40-02-005.tar.gz
+-----------------------------
+2025-03-30 09:46:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-46-02-005.tar.gz
+2025-03-30 09:46:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:46:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-42-01.tar.gz
+-----------------------------
+2025-03-30 09:47:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-47-01-693.tar.gz
+2025-03-30 09:47:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:47:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-42-02-256.tar.gz
+-----------------------------
+2025-03-30 09:48:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-48-02-144.tar.gz
+2025-03-30 09:48:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:48:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-44-01.tar.gz
+-----------------------------
+2025-03-30 09:49:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-49-01-526.tar.gz
+2025-03-30 09:49:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:49:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-44-01-642.tar.gz
+-----------------------------
+2025-03-30 09:50:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-50-02-141.tar.gz
+2025-03-30 09:50:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:50:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-46-01.tar.gz
+-----------------------------
+2025-03-30 09:51:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-51-01-715.tar.gz
+2025-03-30 09:51:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:51:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-46-02-005.tar.gz
+-----------------------------
+2025-03-30 09:52:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-52-02-566.tar.gz
+2025-03-30 09:52:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:52:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-48-01.tar.gz
+-----------------------------
+2025-03-30 09:53:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-53-02-031.tar.gz
+2025-03-30 09:53:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:53:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-48-02-144.tar.gz
+-----------------------------
+2025-03-30 09:54:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-54-01-658.tar.gz
+2025-03-30 09:54:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:54:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-50-01.tar.gz
+-----------------------------
+2025-03-30 09:55:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-55-02-021.tar.gz
+2025-03-30 09:55:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:55:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-50-02-141.tar.gz
+-----------------------------
+2025-03-30 09:56:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-56-01-409.tar.gz
+2025-03-30 09:56:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:56:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-51-01-715.tar.gz
+-----------------------------
+2025-03-30 09:57:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-57-02-050.tar.gz
+2025-03-30 09:57:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:57:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-52-02-566.tar.gz
+-----------------------------
+2025-03-30 09:58:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-58-01-519.tar.gz
+2025-03-30 09:58:01 - ✅ Backup hecho correctamente.
+2025-03-30 09:58:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-53-02-031.tar.gz
+-----------------------------
+2025-03-30 09:59:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-09-59-02-101.tar.gz
+2025-03-30 09:59:02 - ✅ Backup hecho correctamente.
+2025-03-30 09:59:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-54-01-658.tar.gz
+-----------------------------
+2025-03-30 10:00:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-00-01-781.tar.gz
+2025-03-30 10:00:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:00:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-56-01-409.tar.gz
+-----------------------------
+2025-03-30 10:01:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-01-01-263.tar.gz
+2025-03-30 10:01:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:01:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-56-01.tar.gz
+-----------------------------
+2025-03-30 10:02:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-02-01-847.tar.gz
+2025-03-30 10:02:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:02:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-58-01-519.tar.gz
+-----------------------------
+2025-03-30 10:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-03-01-576.tar.gz
+2025-03-30 10:03:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-09-58-01.tar.gz
+-----------------------------
+2025-03-30 10:04:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-04-01-983.tar.gz
+2025-03-30 10:04:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:04:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-00-01.tar.gz
+-----------------------------
+2025-03-30 10:05:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-05-01-640.tar.gz
+2025-03-30 10:05:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:05:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-00-01-781.tar.gz
+-----------------------------
+2025-03-30 10:06:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-06-02-144.tar.gz
+2025-03-30 10:06:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:06:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-02-01.tar.gz
+-----------------------------
+2025-03-30 10:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-07-01-511.tar.gz
+2025-03-30 10:07:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-02-01-847.tar.gz
+-----------------------------
+2025-03-30 10:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-08-01-871.tar.gz
+2025-03-30 10:08:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-04-01.tar.gz
+-----------------------------
+2025-03-30 10:09:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-09-02-322.tar.gz
+2025-03-30 10:09:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:09:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-04-01-983.tar.gz
+-----------------------------
+2025-03-30 10:10:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-10-02-021.tar.gz
+2025-03-30 10:10:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:10:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-06-01.tar.gz
+-----------------------------
+2025-03-30 10:11:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-11-01-639.tar.gz
+2025-03-30 10:11:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:11:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-06-02-144.tar.gz
+-----------------------------
+2025-03-30 10:12:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-12-02-354.tar.gz
+2025-03-30 10:12:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:12:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-08-01.tar.gz
+-----------------------------
+2025-03-30 10:13:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-13-01-776.tar.gz
+2025-03-30 10:13:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:13:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-08-01-871.tar.gz
+-----------------------------
+2025-03-30 10:14:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-14-02-368.tar.gz
+2025-03-30 10:14:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:14:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-10-01.tar.gz
+-----------------------------
+2025-03-30 10:15:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-15-02-200.tar.gz
+2025-03-30 10:15:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:15:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-10-02-021.tar.gz
+-----------------------------
+2025-03-30 10:16:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-16-01-642.tar.gz
+2025-03-30 10:16:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:16:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-12-01.tar.gz
+-----------------------------
+2025-03-30 10:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-17-02-022.tar.gz
+2025-03-30 10:17:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-12-02-354.tar.gz
+-----------------------------
+2025-03-30 10:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-18-01-582.tar.gz
+2025-03-30 10:18:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-14-01.tar.gz
+-----------------------------
+2025-03-30 10:19:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-19-01-983.tar.gz
+2025-03-30 10:19:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:19:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-14-02-368.tar.gz
+-----------------------------
+2025-03-30 10:20:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-20-01-678.tar.gz
+2025-03-30 10:20:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:20:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-16-01.tar.gz
+-----------------------------
+2025-03-30 10:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-21-01-882.tar.gz
+2025-03-30 10:21:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-16-01-642.tar.gz
+-----------------------------
+2025-03-30 10:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-22-01-507.tar.gz
+2025-03-30 10:22:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-18-01.tar.gz
+-----------------------------
+2025-03-30 10:23:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-23-02-133.tar.gz
+2025-03-30 10:23:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:23:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-18-01-582.tar.gz
+-----------------------------
+2025-03-30 10:24:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-24-01-770.tar.gz
+2025-03-30 10:24:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:24:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-20-01.tar.gz
+-----------------------------
+2025-03-30 10:25:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-25-01-411.tar.gz
+2025-03-30 10:25:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:25:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-20-01-678.tar.gz
+-----------------------------
+2025-03-30 10:26:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-26-02-043.tar.gz
+2025-03-30 10:26:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:26:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-22-01.tar.gz
+-----------------------------
+2025-03-30 10:27:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-27-01-439.tar.gz
+2025-03-30 10:27:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:27:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-22-01-507.tar.gz
+-----------------------------
+2025-03-30 10:28:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-28-02-085.tar.gz
+2025-03-30 10:28:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:28:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-24-01.tar.gz
+-----------------------------
+2025-03-30 10:29:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-29-01-932.tar.gz
+2025-03-30 10:29:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:29:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-24-01-770.tar.gz
+-----------------------------
+2025-03-30 10:30:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-30-01-718.tar.gz
+2025-03-30 10:30:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:30:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-25-01-411.tar.gz
+-----------------------------
+2025-03-30 10:31:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-31-02-351.tar.gz
+2025-03-30 10:31:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:31:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-26-02-043.tar.gz
+-----------------------------
+2025-03-30 10:32:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-32-01-980.tar.gz
+2025-03-30 10:32:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:32:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-28-01.tar.gz
+-----------------------------
+2025-03-30 10:33:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-33-01-593.tar.gz
+2025-03-30 10:33:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:33:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-28-02-085.tar.gz
+-----------------------------
+2025-03-30 10:34:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-34-01-990.tar.gz
+2025-03-30 10:34:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:34:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-30-01-718.tar.gz
+-----------------------------
+2025-03-30 10:35:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-35-01-361.tar.gz
+2025-03-30 10:35:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:35:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-30-01.tar.gz
+-----------------------------
+2025-03-30 10:36:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-36-01-989.tar.gz
+2025-03-30 10:36:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:36:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-32-01.tar.gz
+-----------------------------
+2025-03-30 10:37:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-37-01-841.tar.gz
+2025-03-30 10:37:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:37:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-32-01-980.tar.gz
+-----------------------------
+2025-03-30 10:38:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-38-01-403.tar.gz
+2025-03-30 10:38:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:38:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-34-01.tar.gz
+-----------------------------
+2025-03-30 10:39:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-39-02-023.tar.gz
+2025-03-30 10:39:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:39:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-34-01-990.tar.gz
+-----------------------------
+2025-03-30 10:40:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-40-01-513.tar.gz
+2025-03-30 10:40:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:40:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-36-01-989.tar.gz
+-----------------------------
+2025-03-30 10:41:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-41-01-908.tar.gz
+2025-03-30 10:41:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:41:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-36-01.tar.gz
+-----------------------------
+2025-03-30 10:42:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-42-01-495.tar.gz
+2025-03-30 10:42:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:42:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-38-01.tar.gz
+-----------------------------
+2025-03-30 10:43:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-43-02-248.tar.gz
+2025-03-30 10:43:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:43:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-38-01-403.tar.gz
+-----------------------------
+2025-03-30 10:44:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-44-02-112.tar.gz
+2025-03-30 10:44:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:44:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-40-01.tar.gz
+-----------------------------
+2025-03-30 10:45:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-45-01-649.tar.gz
+2025-03-30 10:45:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:45:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-40-01-513.tar.gz
+-----------------------------
+2025-03-30 10:46:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-46-02-189.tar.gz
+2025-03-30 10:46:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:46:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-42-01.tar.gz
+-----------------------------
+2025-03-30 10:47:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-47-01-701.tar.gz
+2025-03-30 10:47:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:47:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-42-01-495.tar.gz
+-----------------------------
+2025-03-30 10:48:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-48-02-290.tar.gz
+2025-03-30 10:48:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:48:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-44-01.tar.gz
+-----------------------------
+2025-03-30 10:49:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-49-01-889.tar.gz
+2025-03-30 10:49:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:49:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-44-02-112.tar.gz
+-----------------------------
+2025-03-30 10:50:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-50-01-648.tar.gz
+2025-03-30 10:50:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:50:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-46-01.tar.gz
+-----------------------------
+2025-03-30 10:51:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-51-02-294.tar.gz
+2025-03-30 10:51:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:51:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-46-02-189.tar.gz
+-----------------------------
+2025-03-30 10:52:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-52-01-909.tar.gz
+2025-03-30 10:52:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:52:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-48-01.tar.gz
+-----------------------------
+2025-03-30 10:53:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-53-01-464.tar.gz
+2025-03-30 10:53:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:53:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-48-02-290.tar.gz
+-----------------------------
+2025-03-30 10:54:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-54-01-986.tar.gz
+2025-03-30 10:54:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:54:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-50-01.tar.gz
+-----------------------------
+2025-03-30 10:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-55-01-549.tar.gz
+2025-03-30 10:55:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:55:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-50-01-648.tar.gz
+-----------------------------
+2025-03-30 10:56:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-56-02-104.tar.gz
+2025-03-30 10:56:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:56:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-52-01.tar.gz
+-----------------------------
+2025-03-30 10:57:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-57-01-655.tar.gz
+2025-03-30 10:57:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:57:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-52-01-909.tar.gz
+-----------------------------
+2025-03-30 10:58:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-58-02-286.tar.gz
+2025-03-30 10:58:02 - ✅ Backup hecho correctamente.
+2025-03-30 10:58:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-54-01.tar.gz
+-----------------------------
+2025-03-30 10:59:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-10-59-01-889.tar.gz
+2025-03-30 10:59:01 - ✅ Backup hecho correctamente.
+2025-03-30 10:59:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-54-01-986.tar.gz
+-----------------------------
+2025-03-30 15:49:28 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-49-28-651.tar.gz
+2025-03-30 15:49:28 - ✅ Backup hecho correctamente.
+2025-03-30 15:49:28 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-55-01-549.tar.gz
+-----------------------------
+2025-03-30 15:50:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-50-02-399.tar.gz
+2025-03-30 15:50:02 - ✅ Backup hecho correctamente.
+2025-03-30 15:50:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-56-02-104.tar.gz
+-----------------------------
+2025-03-30 15:51:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-51-02-231.tar.gz
+2025-03-30 15:51:02 - ✅ Backup hecho correctamente.
+2025-03-30 15:51:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-57-01-655.tar.gz
+-----------------------------
+2025-03-30 15:52:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-52-01-759.tar.gz
+2025-03-30 15:52:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:52:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-58-01.tar.gz
+-----------------------------
+2025-03-30 15:53:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-53-02-355.tar.gz
+2025-03-30 15:53:02 - ✅ Backup hecho correctamente.
+2025-03-30 15:53:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-10-59-01-889.tar.gz
+-----------------------------
+2025-03-30 15:54:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-54-01-923.tar.gz
+2025-03-30 15:54:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:54:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-49-28-651.tar.gz
+-----------------------------
+2025-03-30 15:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-55-01-543.tar.gz
+2025-03-30 15:55:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:55:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-50-02-399.tar.gz
+-----------------------------
+2025-03-30 15:56:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-56-01-952.tar.gz
+2025-03-30 15:56:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:56:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-51-02-231.tar.gz
+-----------------------------
+2025-03-30 15:57:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-57-01-318.tar.gz
+2025-03-30 15:57:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:57:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-52-01.tar.gz
+-----------------------------
+2025-03-30 15:58:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-58-02-029.tar.gz
+2025-03-30 15:58:02 - ✅ Backup hecho correctamente.
+2025-03-30 15:58:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-54-01-923.tar.gz
+-----------------------------
+2025-03-30 15:59:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-15-59-01-778.tar.gz
+2025-03-30 15:59:01 - ✅ Backup hecho correctamente.
+2025-03-30 15:59:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-54-01.tar.gz
+-----------------------------
+2025-03-30 16:00:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-00-02-157.tar.gz
+2025-03-30 16:00:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:00:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-56-01-952.tar.gz
+-----------------------------
+2025-03-30 16:01:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-01-02-052.tar.gz
+2025-03-30 16:01:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:01:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-56-01.tar.gz
+-----------------------------
+2025-03-30 16:02:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-02-01-762.tar.gz
+2025-03-30 16:02:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:02:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-58-01.tar.gz
+-----------------------------
+2025-03-30 16:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-03-01-270.tar.gz
+2025-03-30 16:03:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-15-58-02-029.tar.gz
+-----------------------------
+2025-03-30 16:04:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-04-01-921.tar.gz
+2025-03-30 16:04:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:04:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-00-01.tar.gz
+-----------------------------
+2025-03-30 16:05:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-05-01-564.tar.gz
+2025-03-30 16:05:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:05:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-00-02-157.tar.gz
+-----------------------------
+2025-03-30 16:06:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-06-02-161.tar.gz
+2025-03-30 16:06:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:06:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-02-01.tar.gz
+-----------------------------
+2025-03-30 16:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-07-01-829.tar.gz
+2025-03-30 16:07:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-02-01-762.tar.gz
+-----------------------------
+2025-03-30 16:08:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-08-01-497.tar.gz
+2025-03-30 16:08:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:08:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-04-01.tar.gz
+-----------------------------
+2025-03-30 16:09:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-09-02-190.tar.gz
+2025-03-30 16:09:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:09:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-04-01-921.tar.gz
+-----------------------------
+2025-03-30 16:10:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-10-01-585.tar.gz
+2025-03-30 16:10:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:10:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-06-01.tar.gz
+-----------------------------
+2025-03-30 16:11:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-11-01-946.tar.gz
+2025-03-30 16:11:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:11:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-06-02-161.tar.gz
+-----------------------------
+2025-03-30 16:12:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-12-01-297.tar.gz
+2025-03-30 16:12:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:12:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-07-01-829.tar.gz
+-----------------------------
+2025-03-30 16:13:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-13-01-675.tar.gz
+2025-03-30 16:13:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:13:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-08-01-497.tar.gz
+-----------------------------
+2025-03-30 16:15:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-15-01-680.tar.gz
+2025-03-30 16:15:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:15:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-09-02-190.tar.gz
+-----------------------------
+2025-03-30 16:16:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-16-02-522.tar.gz
+2025-03-30 16:16:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:16:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-10-01.tar.gz
+-----------------------------
+2025-03-30 16:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-17-02-080.tar.gz
+2025-03-30 16:17:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-10-01-585.tar.gz
+-----------------------------
+2025-03-30 16:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-18-01-640.tar.gz
+2025-03-30 16:18:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-11-01-946.tar.gz
+-----------------------------
+2025-03-30 16:19:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-19-02-238.tar.gz
+2025-03-30 16:19:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:19:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-12-01-297.tar.gz
+-----------------------------
+2025-03-30 16:20:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-20-01-892.tar.gz
+2025-03-30 16:20:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:20:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-12-01.tar.gz
+-----------------------------
+2025-03-30 16:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-21-01-378.tar.gz
+2025-03-30 16:21:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-13-01-675.tar.gz
+-----------------------------
+2025-03-30 16:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-22-01-977.tar.gz
+2025-03-30 16:22:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-15-01-680.tar.gz
+-----------------------------
+2025-03-30 16:23:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-23-01-690.tar.gz
+2025-03-30 16:23:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:23:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-16-02-522.tar.gz
+-----------------------------
+2025-03-30 16:24:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-24-02-420.tar.gz
+2025-03-30 16:24:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:24:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-17-02-080.tar.gz
+-----------------------------
+2025-03-30 16:25:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-25-02-073.tar.gz
+2025-03-30 16:25:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:25:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-18-01-640.tar.gz
+-----------------------------
+2025-03-30 16:26:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-26-01-728.tar.gz
+2025-03-30 16:26:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:26:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-19-02-238.tar.gz
+-----------------------------
+2025-03-30 16:27:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-27-02-202.tar.gz
+2025-03-30 16:27:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:27:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-20-01-892.tar.gz
+-----------------------------
+2025-03-30 16:28:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-28-01-558.tar.gz
+2025-03-30 16:28:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:28:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-21-01-378.tar.gz
+-----------------------------
+2025-03-30 16:29:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-29-01-912.tar.gz
+2025-03-30 16:29:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:29:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-22-01-977.tar.gz
+-----------------------------
+2025-03-30 16:30:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-30-01-240.tar.gz
+2025-03-30 16:30:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:30:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-23-01-690.tar.gz
+-----------------------------
+2025-03-30 16:31:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-31-01-570.tar.gz
+2025-03-30 16:31:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:31:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-24-02-420.tar.gz
+-----------------------------
+2025-03-30 16:32:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-32-01-904.tar.gz
+2025-03-30 16:32:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:32:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-25-02-073.tar.gz
+-----------------------------
+2025-03-30 16:33:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-33-01-283.tar.gz
+2025-03-30 16:33:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:33:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-26-01-728.tar.gz
+-----------------------------
+2025-03-30 16:34:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-34-01-626.tar.gz
+2025-03-30 16:34:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:34:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-27-02-202.tar.gz
+-----------------------------
+2025-03-30 16:35:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-35-01-950.tar.gz
+2025-03-30 16:35:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:35:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-28-01-558.tar.gz
+-----------------------------
+2025-03-30 16:36:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-36-01-289.tar.gz
+2025-03-30 16:36:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:36:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-29-01-912.tar.gz
+-----------------------------
+2025-03-30 16:37:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-37-01-631.tar.gz
+2025-03-30 16:37:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:37:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-30-01-240.tar.gz
+-----------------------------
+2025-03-30 16:38:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-38-01-947.tar.gz
+2025-03-30 16:38:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:38:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-31-01-570.tar.gz
+-----------------------------
+2025-03-30 16:39:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-39-01-292.tar.gz
+2025-03-30 16:39:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:39:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-32-01-904.tar.gz
+-----------------------------
+2025-03-30 16:40:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-40-01-654.tar.gz
+2025-03-30 16:40:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:40:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-33-01-283.tar.gz
+-----------------------------
+2025-03-30 16:41:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-41-02-012.tar.gz
+2025-03-30 16:41:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:41:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-34-01-626.tar.gz
+-----------------------------
+2025-03-30 16:42:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-42-01-374.tar.gz
+2025-03-30 16:42:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:42:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-35-01-950.tar.gz
+-----------------------------
+2025-03-30 16:43:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-43-01-698.tar.gz
+2025-03-30 16:43:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:43:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-36-01-289.tar.gz
+-----------------------------
+2025-03-30 16:44:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-44-02-012.tar.gz
+2025-03-30 16:44:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:44:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-37-01-631.tar.gz
+-----------------------------
+2025-03-30 16:45:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-45-01-344.tar.gz
+2025-03-30 16:45:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:45:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-38-01-947.tar.gz
+-----------------------------
+2025-03-30 16:46:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-46-01-719.tar.gz
+2025-03-30 16:46:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:46:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-39-01-292.tar.gz
+-----------------------------
+2025-03-30 16:47:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-47-02-111.tar.gz
+2025-03-30 16:47:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:47:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-40-01-654.tar.gz
+-----------------------------
+2025-03-30 16:48:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-48-01-444.tar.gz
+2025-03-30 16:48:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:48:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-41-02-012.tar.gz
+-----------------------------
+2025-03-30 16:49:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-49-01-777.tar.gz
+2025-03-30 16:49:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:49:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-42-01-374.tar.gz
+-----------------------------
+2025-03-30 16:50:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-50-02-117.tar.gz
+2025-03-30 16:50:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:50:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-43-01-698.tar.gz
+-----------------------------
+2025-03-30 16:51:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-51-01-459.tar.gz
+2025-03-30 16:51:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:51:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-44-02-012.tar.gz
+-----------------------------
+2025-03-30 16:52:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-52-01-798.tar.gz
+2025-03-30 16:52:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:52:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-45-01-344.tar.gz
+-----------------------------
+2025-03-30 16:53:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-53-02-149.tar.gz
+2025-03-30 16:53:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:53:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-46-01-719.tar.gz
+-----------------------------
+2025-03-30 16:54:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-54-01-490.tar.gz
+2025-03-30 16:54:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:54:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-47-02-111.tar.gz
+-----------------------------
+2025-03-30 16:55:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-55-01-813.tar.gz
+2025-03-30 16:55:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:55:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-48-01-444.tar.gz
+-----------------------------
+2025-03-30 16:56:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-56-02-133.tar.gz
+2025-03-30 16:56:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:56:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-49-01-777.tar.gz
+-----------------------------
+2025-03-30 16:57:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-57-01-449.tar.gz
+2025-03-30 16:57:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:57:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-50-02-117.tar.gz
+-----------------------------
+2025-03-30 16:58:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-58-01-796.tar.gz
+2025-03-30 16:58:01 - ✅ Backup hecho correctamente.
+2025-03-30 16:58:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-51-01-459.tar.gz
+-----------------------------
+2025-03-30 16:59:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-16-59-02-125.tar.gz
+2025-03-30 16:59:02 - ✅ Backup hecho correctamente.
+2025-03-30 16:59:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-52-01-798.tar.gz
+-----------------------------
+2025-03-30 17:00:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-00-01-485.tar.gz
+2025-03-30 17:00:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:00:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-53-02-149.tar.gz
+-----------------------------
+2025-03-30 17:01:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-01-01-815.tar.gz
+2025-03-30 17:01:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:01:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-54-01-490.tar.gz
+-----------------------------
+2025-03-30 17:02:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-02-02-135.tar.gz
+2025-03-30 17:02:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:02:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-55-01-813.tar.gz
+-----------------------------
+2025-03-30 17:03:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-03-01-469.tar.gz
+2025-03-30 17:03:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:03:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-56-02-133.tar.gz
+-----------------------------
+2025-03-30 17:04:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-04-01-787.tar.gz
+2025-03-30 17:04:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:04:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-57-01-449.tar.gz
+-----------------------------
+2025-03-30 17:05:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-05-02-133.tar.gz
+2025-03-30 17:05:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:05:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-58-01-796.tar.gz
+-----------------------------
+2025-03-30 17:06:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-06-01-466.tar.gz
+2025-03-30 17:06:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:06:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-16-59-02-125.tar.gz
+-----------------------------
+2025-03-30 17:07:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-07-01-816.tar.gz
+2025-03-30 17:07:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:07:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-00-01-485.tar.gz
+-----------------------------
+2025-03-30 17:08:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-08-02-130.tar.gz
+2025-03-30 17:08:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:08:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-01-01-815.tar.gz
+-----------------------------
+2025-03-30 17:09:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-09-01-509.tar.gz
+2025-03-30 17:09:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:09:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-02-02-135.tar.gz
+-----------------------------
+2025-03-30 17:10:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-10-01-863.tar.gz
+2025-03-30 17:10:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:10:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-03-01-469.tar.gz
+-----------------------------
+2025-03-30 17:11:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-11-02-174.tar.gz
+2025-03-30 17:11:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:11:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-04-01-787.tar.gz
+-----------------------------
+2025-03-30 17:12:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-12-01-481.tar.gz
+2025-03-30 17:12:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:12:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-05-02-133.tar.gz
+-----------------------------
+2025-03-30 17:13:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-13-01-799.tar.gz
+2025-03-30 17:13:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:13:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-06-01-466.tar.gz
+-----------------------------
+2025-03-30 17:14:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-14-02-129.tar.gz
+2025-03-30 17:14:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:14:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-07-01-816.tar.gz
+-----------------------------
+2025-03-30 17:15:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-15-01-459.tar.gz
+2025-03-30 17:15:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:15:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-08-02-130.tar.gz
+-----------------------------
+2025-03-30 17:16:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-16-01-776.tar.gz
+2025-03-30 17:16:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:16:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-09-01-509.tar.gz
+-----------------------------
+2025-03-30 17:17:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-17-02-128.tar.gz
+2025-03-30 17:17:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:17:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-10-01-863.tar.gz
+-----------------------------
+2025-03-30 17:18:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-18-01-471.tar.gz
+2025-03-30 17:18:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:18:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-11-02-174.tar.gz
+-----------------------------
+2025-03-30 17:19:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-19-01-793.tar.gz
+2025-03-30 17:19:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:19:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-12-01-481.tar.gz
+-----------------------------
+2025-03-30 17:20:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-20-02-230.tar.gz
+2025-03-30 17:20:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:20:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-16-01-776.tar.gz
+-----------------------------
+2025-03-30 17:21:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-21-01-585.tar.gz
+2025-03-30 17:21:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:21:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-17-02-128.tar.gz
+-----------------------------
+2025-03-30 17:22:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-22-01-915.tar.gz
+2025-03-30 17:22:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:22:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-19-01-793.tar.gz
+-----------------------------
+2025-03-30 17:23:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-23-02-189.tar.gz
+2025-03-30 17:23:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:23:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-19-44.tar.gz
+-----------------------------
+2025-03-30 17:24:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-24-01-554.tar.gz
+2025-03-30 17:24:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:24:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-20-02-230.tar.gz
+-----------------------------
+2025-03-30 17:25:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-25-03-500.tar.gz
+2025-03-30 17:25:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:25:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-20-02.tar.gz
+-----------------------------
+2025-03-30 17:26:01 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-26-01-941.tar.gz
+2025-03-30 17:26:01 - ✅ Backup hecho correctamente.
+2025-03-30 17:26:01 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-22-01-915.tar.gz
+-----------------------------
+2025-03-30 17:27:02 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-27-02-717.tar.gz
+2025-03-30 17:27:02 - ✅ Backup hecho correctamente.
+2025-03-30 17:27:02 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-22-01.tar.gz
+-----------------------------
+2025-03-30 17:28:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-28-03-051.tar.gz
+2025-03-30 17:28:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:28:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-24-01-554.tar.gz
+-----------------------------
+2025-03-30 17:29:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-29-03-953.tar.gz
+2025-03-30 17:29:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:29:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-24-02.tar.gz
+-----------------------------
+2025-03-30 17:30:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-30-03-114.tar.gz
+2025-03-30 17:30:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:30:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-28-03-051.tar.gz
+-----------------------------
+2025-03-30 17:31:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-31-03-805.tar.gz
+2025-03-30 17:31:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:31:04 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-26-01.tar.gz
+-----------------------------
+2025-03-30 17:32:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-32-03-793.tar.gz
+2025-03-30 17:32:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:32:04 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-28-16.tar.gz
+-----------------------------
+2025-03-30 17:33:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-33-03-291.tar.gz
+2025-03-30 17:33:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:33:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-30-03-114.tar.gz
+-----------------------------
+2025-03-30 17:34:03 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-34-03-628.tar.gz
+2025-03-30 17:34:03 - ✅ Backup hecho correctamente.
+2025-03-30 17:34:03 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-28-01.tar.gz
+-----------------------------
+2025-03-30 17:35:04 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-35-04-640.tar.gz
+2025-03-30 17:35:04 - ✅ Backup hecho correctamente.
+2025-03-30 17:35:04 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-32-03-793.tar.gz
+-----------------------------
+2025-03-30 17:36:04 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-36-04-359.tar.gz
+2025-03-30 17:36:04 - ✅ Backup hecho correctamente.
+2025-03-30 17:36:04 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-33-03-291.tar.gz
+-----------------------------
+2025-03-30 17:37:04 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-37-04-916.tar.gz
+2025-03-30 17:37:04 - ✅ Backup hecho correctamente.
+2025-03-30 17:37:04 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-34-03-628.tar.gz
+-----------------------------
+2025-03-30 17:38:06 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-38-06-376.tar.gz
+2025-03-30 17:38:06 - ✅ Backup hecho correctamente.
+2025-03-30 17:38:06 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-36-04-359.tar.gz
+-----------------------------
+2025-03-30 17:39:08 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-39-08-196.tar.gz
+2025-03-30 17:39:08 - ✅ Backup hecho correctamente.
+2025-03-30 17:39:08 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-37-04-916.tar.gz
+-----------------------------
+2025-03-30 17:40:06 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-40-06-692.tar.gz
+2025-03-30 17:40:06 - ✅ Backup hecho correctamente.
+2025-03-30 17:40:06 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-39-08-196.tar.gz
+-----------------------------
+2025-03-30 17:41:07 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-41-07-623.tar.gz
+2025-03-30 17:41:07 - ✅ Backup hecho correctamente.
+2025-03-30 17:41:07 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-40-06-692.tar.gz
+-----------------------------
+2025-03-30 17:42:07 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-42-07-858.tar.gz
+2025-03-30 17:42:07 - ✅ Backup hecho correctamente.
+2025-03-30 17:42:07 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-42-01.tar.gz
+-----------------------------
+2025-03-30 17:43:07 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-43-07-677.tar.gz
+2025-03-30 17:43:07 - ✅ Backup hecho correctamente.
+2025-03-30 17:43:07 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-42-07-858.tar.gz
+-----------------------------
+2025-03-30 17:44:07 - Iniciando backup...
+📁 Origen: /data/original
+📂 Destino: /data/backups/backup-2025-03-30-17-44-07-825.tar.gz
+2025-03-30 17:44:07 - ✅ Backup hecho correctamente.
+2025-03-30 17:44:07 - 🗑️ Backup eliminado: /data/backups/backup-2025-03-30-17-43-07-677.tar.gz
 -----------------------------

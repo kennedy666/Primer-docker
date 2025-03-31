@@ -1,0 +1,1 @@
+45 6 * * * bash /app/autocheck.sh

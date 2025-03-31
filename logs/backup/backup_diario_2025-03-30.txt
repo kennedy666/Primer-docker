@@ -1,0 +1,100 @@
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-18-53-01.tar.gz
+tar: Removing leading `/' from member names
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-18-48-01.tar.gz
+
+----------------------------------------
+📦 Backup iniciado: 2025-03-30-18-54-01
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-18-54-01.tar.gz
+tar: Removing leading `/' from member names
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-18-49-01.tar.gz
+
+----------------------------------------
+📦 Backup iniciado: 2025-03-30-18-55-01
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-18-55-01.tar.gz
+tar: Removing leading `/' from member names
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-18-50-01.tar.gz
+
+----------------------------------------
+📦 Backup iniciado: 2025-03-30-18-56-01
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-18-56-01.tar.gz
+tar: Removing leading `/' from member names
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-18-51-01.tar.gz
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-03
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-03.tar.gz
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-44-01.tar.gz
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-48-01.tar.gz
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-50-01.tar.gz
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-03
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-03.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-03
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-03.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-03
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-03.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-03
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-03.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-36-01.tar.gz
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-07
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-07.tar.gz
+✅ Backup hecho correctamente.
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-10
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-10.tar.gz
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-34-01.tar.gz
+------------------------------------------
+📦 Backup iniciado: 2025-03-30-19-20
+📁 Origen: /app/carpeta_original
+📁 Destino: /app/backups/backup-2025-03-30-19-20.tar.gz
+✅ Backup hecho correctamente.
+🗑️ Versión antigua eliminada (límite 5): /app/backups/backup-2025-03-30-17-46-01.tar.gz
