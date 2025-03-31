@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  limpieza:
+    build: 
+      context: ./docker-limpieza
+    container_name: limpieza
+    volumes:
+      - ./logs:/app/logs
+    environment:
+      - TZ=UTC
+    restart: unless-stopped
+
+  backup-cron:
+    build:
+      context: ./docker-backup-cron
+    container_name: backup-cron
+    volumes:
+      - ./backups:/app/backups
+    environment:
+      - TZ=UTC
+    restart: unless-stopped
