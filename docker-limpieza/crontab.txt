@@ -1,0 +1,1 @@
+* * * * * bash /app/limpieza_archivos_antiguos.sh >> /app/logs/limpieza.log 2>&1

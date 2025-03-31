@@ -1,6 +1,0 @@
-FROM ubuntu:22.04
-RUN apt-get update && apt-get install -y tar
-WORKDIR /app
-COPY backup_test.sh .
-RUN chmod +x backup_test.sh
-ENTRYPOINT ["./backup_test.sh"]
